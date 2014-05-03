@@ -34,16 +34,16 @@ puts "Hello, World!"
 
 ##デスクトップアプリケーション
 デスクトップアプリケーションは GUI ツールキットを使って作っていきます。
-Ruby から GUI ツールキットを使う方法として、@myokoyama さん自身が開発に関わっているという Ruby-GNOME2 を紹介されました。
+Ruby から GUI ツールキットを使う方法として、@myokoym さん自身が開発に関わっているという Ruby-GNOME2 を紹介されました。
 
 **Ruby-GNOME2**  
 http://ruby-gnome2.sourceforge.jp/ja/
 
 Ruby-GNOME2 は PDF 入出力や動画の再生などの拡張ライブラリが多く、また、日本人開発者が多いので煮詰まったら気軽に相談できます。
-そして、Ruby らしく楽しくプログラミングできるというのが、@myokoyama さんが考える Ruby-GNOME2 の一番いいところだそうです。
+そして、Ruby らしく楽しくプログラミングできるというのが、@myokoym さんが考える Ruby-GNOME2 の一番いいところだそうです。
 
 　「Ruby-GNOME2 を使うと楽しくプログラミングできるのです。」  
 　「完全に Ruby の色に染まっていますね。」
 
-Ruby-GNOME2 について語る @myokoyama さんを見ていて、**「Ruby-GNOME2 は楽しいから皆に知ってほしい！」**という思いが伝わってきました。
+Ruby-GNOME2 について語る @myokoym さんを見ていて、**「Ruby-GNOME2 は楽しいから皆に知ってほしい！」**という思いが伝わってきました。
 Rails でしか Ruby を使ったことがないという方は、この機会に Ruby-GNOME2 を使ってみてほしいですね。
