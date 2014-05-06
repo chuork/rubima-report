@@ -1,7 +1,7 @@
 # なるはや Ruby on Rails - 浦嶌啓太(@ursm)
 
 「速さは正義です。」
-ということで、限られた開発リソースの中でいかに Rails アプリケーションをはやくするかというテーマでお話されました。
+ということで、限られた開発リソースの中でいかにRailsアプリケーションを速くするかというテーマでお話されました。
 
 浦嶌さんは永和システムマネジメントのチーフプログラマとして活躍されており、
 数多くのRailsアプリケーション開発の経験をお持ちです。
@@ -32,7 +32,7 @@ Railsアプリケーションは一度にひとつのリクエストしか処理
 RailsのアプリケーションサーバにはPassengerやThinなどいくつかの種類があり、
 それぞれ採用しているパターンが異なっています。
 
-それを踏まえると、使い分け基準は次のようになることです。
+それを踏まえると、使い分け基準は次のようになるとのことです。
 
 * Passenger, Unicornはマルチプロセスモデルで汎用性が高い
 * Pumaはマルチスレッドモデルで、I/Oバウンドな処理が多いアプリケーションに向いている
@@ -41,15 +41,15 @@ RailsのアプリケーションサーバにはPassengerやThinなどいくつ�
 ## background worker のご紹介
 
 background worker とは、"特定の処理 (ジョブ) をアプリケーションとは別のプロセスで非同期実行する仕組み" とのことです。
-メール送信や検索インデックスの更新など、すぐにやらなくてもいい処理を後回しにすることで早くレスポンスを返すことができます。
+メール送信や検索インデックスの更新など、すぐにやらなくてもいい処理を後回しにすることで速やかにレスポンスを返すことができます。
 
 Railsから利用できるbackground workerにもいろいろな実装があり、それぞれに特徴があります。
 
-* Delayed::Job
-* Resque
-* Sidekiq
-* queue_classic
-* girl_friday
+* [Delayed::Job](https://github.com/collectiveidea/delayed_job)
+* [Resque](https://github.com/resque/resque)
+* [Sidekiq](http://sidekiq.org/)
+* [queue_classic](https://github.com/ryandotsmith/queue_classic)
+* [girl_friday](http://mperham.github.io/girl_friday)
 
 これらはジョブの保存先(オンメモリ/RDB/Redis)やワーカの動作方法(スレッド/プロセス)の違いがあり、
 遅延させたい処理の内容によって使い分けるとよさそうです。
