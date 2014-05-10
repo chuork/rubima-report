@@ -10,7 +10,7 @@ photo by [Shimada Koji](https://www.flickr.com/photos/snoozer/12410077545)
 
   * [Numerical Ruby NArray](http://narray.rubyforge.org/index.html.ja)
 
-NArrayは主に大量の数値計算を高速に処理することを目的に作られたものです。
+NArrayは主に大量の数値計算を高速に処理することを目的に作られたライブラリです。
 計算部分がC言語で書かれているなどの理由で、RubyのArrayよりも高速なのだそうです。
 ただ、大量の数値を扱う人はそれほど多くないだろうということで、
 発表の大部分は速度面よりも表計算機能に着目したお話でした。
