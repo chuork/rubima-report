@@ -9,15 +9,15 @@
 * 開催日時
   * 2014/2/8(土) 13:00 〜 18:00
 * 会場
-  * [かでる2・7][] 1060 会議室([地図](https://maps.google.co.jp/maps?q=43.063107,141.345473&num=1&brcurrent=3,0x5f0b2997c2c14ff7:0x9db606f6a754b30b,0&t=m&z=18))
+  * [かでる2・7](http://homepage.kaderu27.or.jp/) 1060 会議室([地図](https://maps.google.co.jp/maps?q=43.063107,141.345473&num=1&brcurrent=3,0x5f0b2997c2c14ff7:0x9db606f6a754b30b,0&t=m&z=18))
 * 参加費用
   * 1,000 円
 * 主催
   * 札幌市中央区Ruby会議01実行委員
 * 後援
-  * [日本Rubyの会][http://ruby-no-kai.org/]、[Ruby札幌][http://ruby-sapporo.org/]
+  * [日本Rubyの会](http://ruby-no-kai.org/)、[Ruby札幌](http://ruby-sapporo.org/)
 * 公式ハッシュタグ
-  * #chuork01]
+  * #chuork01
 * Togetter
   * http://togetter.com/li/627796
 
