@@ -274,12 +274,12 @@ RubyのArrayでも表計算は不可能ではないですが、条件が複雑�
 一般講演の終了後に、9名の方が LT で発表されました。
 中には、北海道以外の地域から発表しに来てくださった方もいらっしゃいました。
 
-- Favorite points of Padrino - 矢部剛嗣
-- 近況の報告と自宅警備員が失職した話 - うさみけんた
-- 一般社団法人日本 Ruby の会のほうからきました - 島田浩二
+- [Favorite points of Padrino](http://www.slideshare.net/tyabe/favorite-pointsofpadrino) - 矢部剛嗣
+- [近況の報告と自宅警備員が失職した話](http://www.slideshare.net/tadsan/ss-30970830) - うさみけんた
+- [一般社団法人日本Rubyの会のほうからきました](https://speakerdeck.com/snoozer05/all-about-ruby-no-kai) - 島田浩二
 - Ruby を初めてみて得たこと - 早坂亮佑
 - Sinatra x Ajax - よねざわ
-- 惚れちゃうコード - 小林せかい
+- [惚れちゃうコード](http://www.slideshare.net/sekaiya/rubylt) - 小林せかい
 - 我が家を支える技術 2014 冬 - 小岩秀和
 - Make a Fun Work 楽しく仕事をしよう - 阿部智紀
 - Introduction of Ruby 2.1.0 - 村田賢太
