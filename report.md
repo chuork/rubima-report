@@ -48,6 +48,8 @@ Rails には魅力的な機能がたくさんあります。
 
 と発表を締めくくられました。
 
+* [発表動画](https://vimeo.com/87978504)
+
 ## ひでお(仮) - ヽ（´・肉・｀）ノ(@niku_name)
 
 「ひでお」というタイトルは『**「ひ」とり 「で」ぶ(Dev) 「お」ぷす(Ops)**』という意味だそうです。
@@ -76,6 +78,8 @@ Rails には魅力的な機能がたくさんあります。
 運用環境構築の自動化というテーマはまだまだ奥が深そうです。
 「にく先生の次回作にご期待ください」と発表を締めくくられたので、
 この次のお話を聞くのがとても楽しみですね！
+
+* [発表動画](https://vimeo.com/88565924)
 
 ## なるはや Ruby on Rails - 浦嶌啓太(@ursm)
 
@@ -138,6 +142,9 @@ Railsから利用できるbackground workerにもいろいろな実装があり�
 Railsアプリケーションをなるはやにするために、
 アプリケーションの特性にあわせたアプリケーションサーバ/background workerを選択することが大事である、と発表を締めくくられました。
 
+* [発表資料](https://docs.google.com/presentation/d/1ccgvApLkeScQ5GDSIiq31Ij5hL1oFbvU-RNFdi4eSY0/edit)
+* [発表動画](https://vimeo.com/89308684)
+
 ## 趣味プロダクト開発で楽しいコードライフワークを送る - 小玉直樹(@volpe_hd28v)
 
 ![小玉さんの写真](https://farm8.staticflickr.com/7306/12410224783_7d29cae1b5_z_d.jpg "小玉さん")
@@ -162,8 +169,8 @@ photo by [Shimada Koji](https://www.flickr.com/photos/snoozer/12410224783)
 また、質疑応答ではすばらしいライフハックな回答が聞けましたので、
 よろしければ発表動画をご覧になってみてください。
 
-  * [発表資料](http://www.slideshare.net/volpe_hd28v/ss-30978251)
-  * [発表動画](http://vimeo.com/90210338)
+* [発表資料](http://www.slideshare.net/volpe_hd28v/ss-30978251)
+* [発表動画](https://vimeo.com/90210338)
 
 ## 高架下のRuby - 横山昌史(@myokoym)
 **「Ruby を使っているということは、当然 Rails も使っていますよね？」「えっ！？」**
@@ -215,6 +222,9 @@ Ruby-GNOME2 は PDF 入出力や動画の再生などの拡張ライブラリが
 Ruby-GNOME2 について語る横山さんを見ていて、**「Ruby-GNOME2 は楽しいから皆に知ってほしい！」**という思いが伝わってきました。
 Rails でしか Ruby を使ったことがないという方は、この機会に Ruby-GNOME2 を使ってみてほしいですね。
 
+* [発表資料](http://slide.rabbit-shocker.org/authors/myokoym/chuork01/)
+* [発表動画](https://vimeo.com/90221763)
+
 ## Ruby in Project-Based Learning - 梅本祥平
 
 photo by [Shimada Koji](https://www.flickr.com/photos/snoozer/12410074485)
@@ -241,6 +251,8 @@ Ruby やアジャイル開発に詳しい人もいなかったそうです。
 「なぜ Pull Request は Merge されずに Close されるのか？」というテーマに取り組まれているそうです。
 どんなことがわかったのか、とても気になりますね。
 
+* [発表動画](https://vimeo.com/91077770)
+
 ## それNArrayでできるよ - 前田智樹(@tmaeda)
 
 ![前田さんの写真](https://farm6.staticflickr.com/5528/12410077545_2524b67aa4_z_d.jpg "前田さん")
@@ -264,11 +276,11 @@ RubyのArrayでも表計算は不可能ではないですが、条件が複雑�
 さらに、軸が増えて3次元以上の表になってもNArrayなら簡単に扱えるということを、
 3次元の図を使ってわかりやすく説明されました。ぜひ発表資料をご覧になってみてください。
 
-  * [発表資料](https://speakerdeck.com/tmaedax/sore-narray-dedekiruyo)
+* [発表資料](https://speakerdeck.com/tmaedax/sore-narray-dedekiruyo)
 
 前田さんは実際のプロジェクトで活用されているということで、ぜひ御社のビジネスにご活用くださいと締めくくられていました。
 
-  * [発表動画](http://vimeo.com/91788588)
+* [発表動画](https://vimeo.com/91788588)
 
 ## LT
 一般講演の終了後に、9名の方が LT で発表されました。
@@ -290,6 +302,9 @@ Sinatra や Padrino の紹介といった技術的なお話がある一方で、
 
 また、一般社団法人 日本Rubyの会からは、RubyKaigi 2014 と 2015 の開催日程のお知らせがありました。
 こちらのイベントも楽しみですね。
+
+* [発表動画（前半）](https://vimeo.com/91854039)
+* [発表動画（後半）](https://vimeo.com/94730548)
 
 ## さいごに
 
