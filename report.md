@@ -30,10 +30,10 @@ Rails には、開発を楽にするための様々な機能があります。
 
 このセッションで、佐藤さんが説明されたアンチパターンは以下の4つです。
 
-- default_scope
-- serialize
-- save(validate: false)
-- as_json
+* default_scope
+* serialize
+* save(validate: false)
+* as_json
 
 これらのアンチパターンを実例を用いて説明されました。
 詳細は佐藤さんの発表資料に記載されていますので、興味がある方は目を通してみるといいかもしれません。
@@ -185,25 +185,25 @@ Ruby は汎用プログラミング言語ですので、Web アプリケーシ�
 ### コマンドラインツール
 コマンドラインツールの利点として以下を述べられました。
 
-- UI を作成しなくていいので、Ruby だけを使って気軽に書ける
-- 一括処理や自動化しやすい
-- 環境の差は Ruby がほとんど吸収してくれるので、どの OS でも動く
+* UI を作成しなくていいので、Ruby だけを使って気軽に書ける
+* 一括処理や自動化しやすい
+* 環境の差は Ruby がほとんど吸収してくれるので、どの OS でも動く
 
 Web アプリケーション開発でのみ Ruby を使っていた方は、**「Ruby だけを使って開発できること」** や **「いくつものブラウザに対応しなくていいこと」**に気軽さを感じたのではないでしょうか。
 コマンドラインツールは書いたコードをシェル上で実行するだけで動きます。実行方法として、irb を使う方法、ワンライナーで書いて実行する方法、ファイルに保存して実行する方法を紹介されました。
 
-- irb
+* irb
 
         $ irb
         irb(main):001:0> puts "Hello, World!"
         Hello, World!
         => nil
 
-- ワンライナー
+* ワンライナー
 
         $ echo こんにちは | ruby -ple 'gsub(/[な-の]/, "ぬ")'
 
-- ファイルに保存して実行
+* ファイルに保存して実行
 
         #!/usr/bin/env ruby
         puts "Hello, World!"
@@ -242,9 +242,9 @@ photo by [Shimada Koji](https://www.flickr.com/photos/snoozer/12410074485)
 Ruby やアジャイル開発に詳しい人もいなかったそうです。
 そんな環境で Ruby を使ったアジャイルな開発を実現するために、以下の取り組みを始められたそうです。
 
-- 自分がチームのプロジェクトリーダーになる
-- まずは自分だけがめちゃくちゃ勉強する
-- 自分が勉強したことをチームに広める
+* 自分がチームのプロジェクトリーダーになる
+* まずは自分だけがめちゃくちゃ勉強する
+* 自分が勉強したことをチームに広める
 
 「先に自分だけが勉強するのは大変だったけれども、勉強したことをチームにうまく広めることができた」と感じたそうです。
 また、アジャイル開発のプロセスを学ぶためにいろいろな勉強会に参加し、
@@ -290,15 +290,15 @@ RubyのArrayでも表計算は不可能ではないですが、条件が複雑�
 一般講演の終了後に、9名の方が LT で発表されました。
 中には、北海道以外の地域から発表しに来てくださった方もいらっしゃいました。
 
-- [Favorite points of Padrino](http://www.slideshare.net/tyabe/favorite-pointsofpadrino) - 矢部剛嗣
-- [近況の報告と自宅警備員が失職した話](http://www.slideshare.net/tadsan/ss-30970830) - うさみけんた
-- [一般社団法人日本Rubyの会のほうからきました](https://speakerdeck.com/snoozer05/all-about-ruby-no-kai) - 島田浩二
-- Ruby を初めてみて得たこと - 早坂亮佑
-- Sinatra x Ajax - よねざわ
-- [惚れちゃうコード](http://www.slideshare.net/sekaiya/rubylt) - 小林せかい
-- 我が家を支える技術 2014 冬 - 小岩秀和
-- Make a Fun Work 楽しく仕事をしよう - 阿部智紀
-- Introduction of Ruby 2.1.0 - 村田賢太
+* [Favorite points of Padrino](http://www.slideshare.net/tyabe/favorite-pointsofpadrino) - 矢部剛嗣
+* [近況の報告と自宅警備員が失職した話](http://www.slideshare.net/tadsan/ss-30970830) - うさみけんた
+* [一般社団法人日本Rubyの会のほうからきました](https://speakerdeck.com/snoozer05/all-about-ruby-no-kai) - 島田浩二
+* Ruby を初めてみて得たこと - 早坂亮佑
+* Sinatra x Ajax - よねざわ
+* [惚れちゃうコード](http://www.slideshare.net/sekaiya/rubylt) - 小林せかい
+* 我が家を支える技術 2014 冬 - 小岩秀和
+* Make a Fun Work 楽しく仕事をしよう - 阿部智紀
+* Introduction of Ruby 2.1.0 - 村田賢太
 
 Sinatra や Padrino の紹介といった技術的なお話がある一方で、
 「今はこんな仕事しています！」「Ruby を知って生活が変わりました！」
