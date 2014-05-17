@@ -46,9 +46,9 @@ Rails には魅力的な機能がたくさんあります。
 
 「状況によって適切な選択かどうかは変わってきます。」
 「Rails の機能や作るものを理解して、一歩一歩進んで行きましょう。」
-
 と発表を締めくくられました。
 
+* [発表資料](http://www.slideshare.net/tricknotes/rails-possiblestory)
 * [発表動画](https://vimeo.com/87978504)
 
 ## ひでお(仮) - ヽ（´・肉・｀）ノ(@niku_name)
@@ -74,13 +74,14 @@ Rails には魅力的な機能がたくさんあります。
 こちらの発表資料の中では、入門者向けにどこからやってみるのがオススメか、
 「帰ったらやってみよう」という宿題の形で紹介されています。
 なので、「自分でもやってみたいけど何から手を付ければいいのかわからない！」という方は、
-この資料に目を通してみるとよいかもしれません。
+この資料に目を通してみてください。
 
 今回の発表はCI環境構築に焦点を絞ってのお話でしたが、
 運用環境構築の自動化というテーマはまだまだ奥が深そうです。
 「にく先生の次回作にご期待ください」と発表を締めくくられたので、
 この次のお話を聞くのがとても楽しみですね！
 
+* [発表資料](http://slide.rabbit-shocker.org/authors/niku/hideo-at-sapporo-chuork01)
 * [発表動画](https://vimeo.com/88565924)
 
 ## なるはや Ruby on Rails - 浦嶌啓太(@ursm)
@@ -230,6 +231,7 @@ Rails でしか Ruby を使ったことがないという方は、この機会�
 
 ## Ruby in Project-Based Learning - 梅本祥平
 
+![](http://farm6.staticflickr.com/5475/12410074485_cab408f858_z.jpg)
 photo by [Shimada Koji](https://www.flickr.com/photos/snoozer/12410074485)
 
 梅本さんが通われている公立はこだて未来大学には、
@@ -279,10 +281,9 @@ RubyのArrayでも表計算は不可能ではないですが、条件が複雑�
 さらに、軸が増えて3次元以上の表になってもNArrayなら簡単に扱えるということを、
 3次元の図を使ってわかりやすく説明されました。ぜひ発表資料をご覧になってみてください。
 
-* [発表資料](https://speakerdeck.com/tmaedax/sore-narray-dedekiruyo)
-
 前田さんは実際のプロジェクトで活用されているということで、ぜひ御社のビジネスにご活用くださいと締めくくられていました。
 
+* [発表資料](https://speakerdeck.com/tmaedax/sore-narray-dedekiruyo)
 * [発表動画](https://vimeo.com/91788588)
 
 ## LT
