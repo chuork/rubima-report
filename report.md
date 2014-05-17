@@ -152,7 +152,7 @@ Railsアプリケーションをなるはやにするために、
 ![小玉さんの写真](https://farm8.staticflickr.com/7306/12410224783_7d29cae1b5_z_d.jpg "小玉さん")
 photo by [Shimada Koji](https://www.flickr.com/photos/snoozer/12410224783)
 
-トラスティア株式会社の小玉さんの発表です。
+トラスティア株式会社所属で、Ruby札幌のRubyKajaに選ばれた小玉さんの発表です。
 
 小玉さんは、仕事でもシステム開発をされていますが、
 その合間に趣味プロダクトをいくつも開発されています。
