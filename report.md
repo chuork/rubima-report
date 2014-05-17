@@ -193,25 +193,19 @@ Web アプリケーション開発でのみ Ruby を使っていた方は、**�
 
 - irb
 
-```
-$ irb
-irb(main):001:0> puts "Hello, World!"
-Hello, World!
-=> nil
-```
+        $ irb
+        irb(main):001:0> puts "Hello, World!"
+        Hello, World!
+        => nil
 
 - ワンライナー
 
-```
-$ echo こんにちは | ruby -ple 'gsub(/[な-の]/, "ぬ")'
-```
+        $ echo こんにちは | ruby -ple 'gsub(/[な-の]/, "ぬ")'
 
 - ファイルに保存して実行
 
-```
-#!/usr/bin/env ruby
-puts "Hello, World!"
-```
+        #!/usr/bin/env ruby
+        puts "Hello, World!"
 
 ファイル名を一括で変更したり、ファイルごとに圧縮したりするツールを作ることができますので、普段からやっていることをツール化してみると面白そうですね。
 
