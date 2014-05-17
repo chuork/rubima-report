@@ -155,9 +155,9 @@ photo by [Shimada Koji](https://www.flickr.com/photos/snoozer/12410224783)
 小玉さんは、仕事でもシステム開発をされていますが、
 その合間に趣味プロダクトをいくつも開発されています。
 
-  * [かんばんりすと かんばん風タスク管理ツール](http://kanban-list.herokuapp.com/)
-  * [コタれん 押尾コータローの楽曲向け練習帳](http://kotaren.herokuapp.com/)
-  * [DevHub プログラマ向けチャット＆共有メモ](https://github.com/volpe28v/DevHub#readme)
+* [かんばんりすと かんばん風タスク管理ツール](http://kanban-list.herokuapp.com/)
+* [コタれん 押尾コータローの楽曲向け練習帳](http://kotaren.herokuapp.com/)
+* [DevHub プログラマ向けチャット＆共有メモ](https://github.com/volpe28v/DevHub#readme)
 
 この発表では、これらの趣味プロダクトを開発するようになったきっかけと、
 開発を継続するための工夫などが紹介されました。
@@ -263,7 +263,7 @@ photo by [Shimada Koji](https://www.flickr.com/photos/snoozer/12410077545)
 過去2回ほど札幌Ruby会議でRailsのお話をされていますが、
 今回はRuby用多次元数値配列計算ライブラリであるNArrayについてお話されました。
 
-  * [Numerical Ruby NArray](http://narray.rubyforge.org/index.html.ja)
+* [Numerical Ruby NArray](http://narray.rubyforge.org/index.html.ja)
 
 NArrayは主に大量の数値計算を高速に処理することを目的に作られたライブラリです。
 計算部分がC言語で書かれているなどの理由で、RubyのArrayよりも高速なのだそうです。
